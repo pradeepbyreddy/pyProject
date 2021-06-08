@@ -1,7 +1,3 @@
-import sys
-import logging
-import os
-
 
 def feb(n):
 	a, b = 0,1
