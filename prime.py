@@ -8,3 +8,5 @@ for number in range(2,15):
     else:
         # loop fell through without finding a factor
         print(number, 'is a prime number')
+
+print("That is it")
